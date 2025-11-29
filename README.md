@@ -1,5 +1,7 @@
 This is a Laravel Breeze fork that supports Laravel Fortify. 
 
+Video: [Fortify + Breeze Package](https://tekcasts.com/play/pragmatic-laravel-new-fortify-breeze-package)
+
 The reason this exists is for users with existing Laravel application that chose not to install a starter package initially but now want to add authentication. 
 Laravel Fortify will provide you with all the back-end routes / controllers / middleware, but does not provide views. 
 Laravel Breeze provides both views (front-end) and controllers (back-end), but is not actively maintained.
