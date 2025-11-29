@@ -1,16 +1,12 @@
 {
-    "name": "laravel/breeze",
-    "description": "Minimal Laravel authentication scaffolding with Blade and Tailwind.",
+    "name": "rcravens/breeze",
+    "description": "Laravel Breeze fork that supports Laravel Fortify.",
     "keywords": ["laravel", "auth"],
     "license": "MIT",
-    "support": {
-        "issues": "https://github.com/laravel/breeze/issues",
-        "source": "https://github.com/laravel/breeze"
-    },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Bob Cravens",
+            "email": "bob.cravens@tekfoundry.com"
         }
     ],
     "require": {
